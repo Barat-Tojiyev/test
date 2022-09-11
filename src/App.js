@@ -13,6 +13,8 @@ const Menu =()=>{
        <div  className="col-4 text-danger ">
         Xayr
        </div>
+       <h1>Amirxon qushildi</h1>
+       <button className="btn btn-primary fs-4 px-5 py-2">Send</button>
     </div>    
     }  
 
