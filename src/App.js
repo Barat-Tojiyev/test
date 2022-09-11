@@ -11,7 +11,7 @@ const Menu =()=>{
     return <div className="container ">   
   
        <div  className="col-4 text-danger ">
-        Menu
+        Xayr
        </div>
     </div>    
     }  
